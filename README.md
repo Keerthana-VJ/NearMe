@@ -141,7 +141,7 @@ Observatory.html
 ```
 
 ## OUTPUT
-![alt text](Project1/mapapp/static/map.png)
+![alt text](<Map image.png>)
 
 ![alt text](<Image 1.png>)
 
